@@ -4,10 +4,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Oxanium', cursive;
+    background: linear-gradient(to bottom, #6ab7f5, #FFF);
 }
 
 .classCorno {
-    background: linear-gradient(to bottom, #6ab7f5, #FFF);
     color:rgb(255, 0, 0); 
     text-align: center;
     min-height: 100vh;
